@@ -38,7 +38,7 @@ Login to the osTicket as an admin. Note that you can also switch between admin a
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/ShJmDqO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/j27WMAA"><img src="https://i.imgur.com/j27WMAA.png" title="source: imgur.com" /></a>
 </p>
 <p>
 A role is the permission granted to agents (the person who will take care of the ticket) in the department that they have access to. Each role has a different set of permissions that can be checked or unchecked for the agent. Now we will create a role called “supreme admin” and will give people who have this “supreme admin” role access to everything.  
@@ -53,7 +53,7 @@ After adding a new role go to the permission and check all of the boxes, click t
 <br />
 
 <p>
-<img src="https://i.imgur.com/gL3PXY1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/ePVbXHx"><img src="https://i.imgur.com/ePVbXHx.png" title="source: imgur.com" /></a>
 </p>
 <p>
 The ticket gets associated with a department, and that specific department will take care the ticket  
@@ -65,7 +65,7 @@ Add new department>System Administrator
 <br />
 
 <p>
-<img src="https://i.imgur.com/X9CgYtn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/TZZ0C54"><img src="https://i.imgur.com/TZZ0C54.png" title="source: imgur.com" /></a>
 </p>
 <p>
   
@@ -88,7 +88,7 @@ Add level II support and in members add yourself.
 <br />
 
 <p>
-<img src="https://i.imgur.com/CBGcTRq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/T9Tq3Re"><img src="https://i.imgur.com/T9Tq3Re.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
@@ -100,7 +100,7 @@ Next, click require registration and login to create tickets
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/tXl04pT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/rUa3Z00"><img src="https://i.imgur.com/rUa3Z00.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
@@ -128,7 +128,7 @@ Access>support>role set to view only>Extended Access set to support and create
 <br />
 
 <p>
-<img src="https://i.imgur.com/uwwXNBM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/xFOvdgh"><img src="https://i.imgur.com/xFOvdgh.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
@@ -145,7 +145,7 @@ Karen
 <br />
 
 <p>
-<img src="https://i.imgur.com/hgxaaOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/fPfUnwP"><img src="https://i.imgur.com/fPfUnwP.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Add karen and ken to the end user.
@@ -153,7 +153,7 @@ Add karen and ken to the end user.
 <br />
 
 <p>
-<img src="https://i.imgur.com/TTGKh4f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/giJ4K5r"><img src="https://i.imgur.com/giJ4K5r.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
@@ -166,7 +166,7 @@ Admin Panel -> Manage -> SLA
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/1GRonhI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/ka2Fs4y"><img src="https://i.imgur.com/ka2Fs4y.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Add these three SLA's
@@ -183,7 +183,7 @@ Sev-C (8 hours, business hours)
 <br />
 
 <p>
-<img src="https://i.imgur.com/7yNI5Gi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/k5eA7id"><img src="https://i.imgur.com/k5eA7id.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
