@@ -27,9 +27,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - In this section we will create and configure the osTicket environment.
-- We will setup stuff as an admin.
+- We will setup configurations as an admin.
 - We will create role, department, team, agents and users.
-- We will setup different SLA’s and create some help topics.
+- We will set up different SLAs and create help topics.
 
 <h2>Configuration Steps</h2>
 </p>
@@ -41,19 +41,19 @@ Login to the osTicket as an admin. Note that you can also switch between admin a
 <a href="https://imgur.com/j27WMAA"><img src="https://i.imgur.com/j27WMAA.png" title="source: imgur.com" /></a>
 </p>
 <p>
-A role is the permission granted to agents (the person who will take care of the ticket) in the department that they have access to. Each role has a different set of permissions that can be checked or unchecked for the agent. Now we will create a role called “supreme admin” and will give people who have this “supreme admin” role access to everything.  
+A role is the permission granted to agents (the person who will take care of the ticket) in the department that they have access to. Each role has a different set of permissions that can be checked or unchecked for the agent. Now we will create a role called “supreme admin” and will assign to a user who will have access to everything.  
   
 Admin Panel -> Agents -> Roles
 Add new role>Supreme admin
   
 
-After adding a new role go to the permission and check all of the boxes, click task and check all of the boxes, click knowledgebase and check the box.
+After adding a new role go to the permission, check all of the boxes, click task and check all of the boxes, click knowledgebase and check the box.
 
 </p>
 <br />
 
 <p>
-<a href="https://imgur.com/ePVbXHx"><img src="https://i.imgur.com/ePVbXHx.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Cbo36IX"><img src="https://i.imgur.com/Cbo36IX.png" title="source: imgur.com" /></a>
 </p>
 <p>
 The ticket gets associated with a department, and that specific department will take care the ticket  
@@ -65,7 +65,7 @@ Add new department>System Administrator
 <br />
 
 <p>
-<a href="https://imgur.com/TZZ0C54"><img src="https://i.imgur.com/TZZ0C54.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/eU00iSZ"><img src="https://i.imgur.com/eU00iSZ.png" title="source: imgur.com" /></a>
 </p>
 <p>
   
@@ -88,7 +88,7 @@ Add level II support and in members add yourself.
 <br />
 
 <p>
-<a href="https://imgur.com/T9Tq3Re"><img src="https://i.imgur.com/T9Tq3Re.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/wvt6qX4"><img src="https://i.imgur.com/wvt6qX4.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
@@ -99,8 +99,7 @@ Next, click require registration and login to create tickets
   
 </p>
 <br />
-<p>
-<a href="https://imgur.com/rUa3Z00"><img src="https://i.imgur.com/rUa3Z00.png" title="source: imgur.com" /></a>
+<p><a href="https://imgur.com/qfuh2o8"><img src="https://i.imgur.com/qfuh2o8.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
@@ -117,27 +116,25 @@ you can add anyone to the agent list by creating their usernames, emails, and pa
 
   
 Jane Doe  
-Access> Set to System Administrators>Set role to supreme admin>check permission>check teams and to level II support and create
+Access -> Set to System Administrators -> Set role to supreme admin -> check permission -> check teams and to level II support and create
   
   
 John Doe 
-Access>support>role set to view only>Extended Access set to support and create
+Access -> support -> role set to view only -> Extended Access set to support and create
 
 
 </p>
 <br />
 
 <p>
-<a href="https://imgur.com/xFOvdgh"><img src="https://i.imgur.com/xFOvdgh.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/c06bGbH"><img src="https://i.imgur.com/c06bGbH.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
 We can also add End Users. End Users (also known as the customer) are the people who can create their own tickets.
   
   
-Agent Panel -> Users -> Add New
-
-Karen 
+Agent Panel -> Users -> Add New -> Ken 
  
 
   
@@ -145,15 +142,14 @@ Karen
 <br />
 
 <p>
-<a href="https://imgur.com/fPfUnwP"><img src="https://i.imgur.com/fPfUnwP.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/QNtSqxQ"><img src="https://i.imgur.com/QNtSqxQ.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Add karen and ken to the end user.
 </p>
 <br />
 
-<p>
-<a href="https://imgur.com/giJ4K5r"><img src="https://i.imgur.com/giJ4K5r.png" title="source: imgur.com" /></a>
+<p><a href="https://imgur.com/deCKJZO"><img src="https://i.imgur.com/deCKJZO.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
@@ -166,7 +162,7 @@ Admin Panel -> Manage -> SLA
 </p>
 <br />
 <p>
-<a href="https://imgur.com/ka2Fs4y"><img src="https://i.imgur.com/ka2Fs4y.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/LuAWyPz"><img src="https://i.imgur.com/LuAWyPz.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Add these three SLA's
@@ -177,13 +173,13 @@ Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
 
   
-Sev-C (8 hours, business hours)
+Sev-C (8 hours, business hours, Monday - Friday 8am -5pm with Canada Holidays)
   
 </p>
 <br />
 
 <p>
-<a href="https://imgur.com/k5eA7id"><img src="https://i.imgur.com/k5eA7id.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/MBwi4Nn"><img src="https://i.imgur.com/MBwi4Nn.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
