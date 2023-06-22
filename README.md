@@ -186,17 +186,15 @@ Sev-C (8 hours, business hours, Monday - Friday 8am -5pm with Canada Holidays)
 
 End users can choose the problem they need help with. To do this go to the Admin Panel -> Manage -> Help Topics
 
+Select from the list below:
   
-Business Critical Outage
+- Business Critical Outage
 
-  
-Personal Computer Issues
+- Personal Computer Issues
 
-  
-Equipment Request
+- Equipment Request
 
-  
-Password Reset
+- Password Reset
 
 </p>
 <br />
