@@ -32,15 +32,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - We will set up different SLAs and create help topics.
 
 <h2>Configuration Steps</h2>
-</p>
-<p>
+
 Login to the osTicket as an admin. Note that you can also switch between the admin and agent panel by clicking on the top right corner of the screen.
-</p>
-<br />
-<p>
+
 <a href="https://imgur.com/j27WMAA"><img src="https://i.imgur.com/j27WMAA.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
 A role is permission granted to agents (the person who will take care of the ticket) in the department that they have access to. Each role has a different set of permissions that can be checked or unchecked for the agent. Now we will create a role called “supreme admin” and will assign it to a user who will have access to everything.  
   
 Admin Panel -> Agents -> Roles ->Add new role -> Supreme admin
@@ -48,13 +44,9 @@ Admin Panel -> Agents -> Roles ->Add new role -> Supreme admin
 
 After adding a new role go to the permission, check all of the boxes, click the task and check all of the boxes, click knowledgebase and check the box.
 
-</p>
-<br />
 
-<p>
 <a href="https://imgur.com/Cbo36IX"><img src="https://i.imgur.com/Cbo36IX.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
 The ticket gets associated with a department, and that specific department will take care of the ticket  
   
 Admin Panel -> Agents -> Departments -> Add new department -> System Administrator
@@ -78,24 +70,17 @@ Level II Support
 Add level II support and in members add yourself.
 
 
-</p>
-<br />
-
-<p>
 <a href="https://imgur.com/wvt6qX4"><img src="https://i.imgur.com/wvt6qX4.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
 
 Admin Panel -> Settings -> User Settings
   
   
 Next, click require registration and login to create tickets  
   
-</p>
-<br />
-<p><a href="https://imgur.com/qfuh2o8"><img src="https://i.imgur.com/qfuh2o8.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
+<a href="https://imgur.com/qfuh2o8"><img src="https://i.imgur.com/qfuh2o8.png" title="source: imgur.com" /></a>
+
 
 
 
@@ -116,8 +101,6 @@ John Doe -> Access -> support -> role set to view only -> Extended Access set to
 
 
 
-
-
 <a href="https://imgur.com/c06bGbH"><img src="https://i.imgur.com/c06bGbH.png" title="source: imgur.com" /></a>
 
 We can also add End Users. End Users (also known as the customer) are the people who can create their own tickets.
@@ -126,7 +109,6 @@ We can also add End Users. End Users (also known as the customer) are the people
 Agent Panel -> Users -> Add New -> Ken 
  
 
-  
 
 <a href="https://imgur.com/QNtSqxQ"><img src="https://i.imgur.com/QNtSqxQ.png" title="source: imgur.com" /></a>
 
