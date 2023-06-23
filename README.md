@@ -145,7 +145,7 @@ Agent Panel -> Users -> Add New -> Ken
 <a href="https://imgur.com/QNtSqxQ"><img src="https://i.imgur.com/QNtSqxQ.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Add karen and ken to the end user.
+Add Karen and Ken to the end user.
 </p>
 <br />
 
@@ -195,8 +195,6 @@ Select from the list below:
 - Equipment Request
 
 - Password Reset
-
 </p>
-<br />
 
-<p>
+Good job for making it this far into the osTicket Tutorial. In the [next tutorial](https://github.com/ItradeLQ/ticket-lifecycle.git), we will wrap up our mini series on osTicket.
