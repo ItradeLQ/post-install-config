@@ -136,22 +136,16 @@ Agent Panel -> Users -> Add New -> Ken
  
 
   
-</p>
-<br />
 
-<p>
 <a href="https://imgur.com/QNtSqxQ"><img src="https://i.imgur.com/QNtSqxQ.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
 Add Karen and Ken to the end user.
-</p>
-<br />
+
 
 <p><a href="https://imgur.com/deCKJZO"><img src="https://i.imgur.com/deCKJZO.png" title="source: imgur.com" /></a>
-</p>
-<p>
 
-SLA is the amount of time given to open, solve the problem, and close the ticket.
+
+Service Level Agreement is the amount of time given to open, solve the problem, and close the ticket.
 
   
 Admin Panel -> Manage -> SLA
@@ -159,7 +153,7 @@ Admin Panel -> Manage -> SLA
 
 <a href="https://imgur.com/LuAWyPz"><img src="https://i.imgur.com/LuAWyPz.png" title="source: imgur.com" /></a>
 
-Add these three SLA's
+Add these three SLAs
   
 Sev-A (1 hour, 24/7)
   
