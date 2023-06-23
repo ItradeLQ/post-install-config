@@ -197,4 +197,4 @@ Select from the list below:
 - Password Reset
 </p>
 
-Good job for making it this far into the osTicket Tutorial. In the [next tutorial](https://github.com/ItradeLQ/ticket-lifecycle.git), we will wrap up our mini series on osTicket.
+Good job for making it this far into the osTicket Tutorial. In the [next tutorial](https://github.com/ItradeLQ/ticket-lifecycle.git), we will wrap up our mini-series on osTicket focusing on ticket-lifecycle.
