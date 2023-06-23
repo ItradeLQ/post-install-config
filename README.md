@@ -103,7 +103,7 @@ Next, click require registration and login to create tickets
 
 
 
-Agent is the person solve the ticket.
+An Agent is the person who solves the ticket.
 
 
 Admin Panel -> Agents -> Add new 
@@ -157,12 +157,8 @@ SLA is the amount of time given to open, solve the problem, and close the ticket
 Admin Panel -> Manage -> SLA
 
 
-</p>
-<br />
-<p>
 <a href="https://imgur.com/LuAWyPz"><img src="https://i.imgur.com/LuAWyPz.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
 Add these three SLA's
   
 Sev-A (1 hour, 24/7)
