@@ -14,7 +14,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>Prerequisites</h2>
 
@@ -59,13 +59,9 @@ The ticket gets associated with a department, and that specific department will 
   
 Admin Panel -> Agents -> Departments -> Add new department -> System Administrator
 
-</p>
-<br />
 
-<p>
 <a href="https://imgur.com/eU00iSZ"><img src="https://i.imgur.com/eU00iSZ.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
   
 Every department can have multiple teams
   
@@ -109,25 +105,20 @@ An Agent is the person who solves the ticket.
 Admin Panel -> Agents -> Add new 
 
 
-you can add anyone to the agent list by creating their usernames, emails, and passwords. In this case I added Jane Doe and John Doe as agents
+You can add anyone to the agent list by creating their usernames, emails, and passwords. In this case I added Jane Doe and John Doe as agents
   
 
   
-Jane Doe  
-Access -> Set to System Administrators -> Set role to supreme admin -> check permission -> check teams and to level II support and create
+Jane Doe -> Access -> Set to System Administrators -> Set role to supreme admin -> Check permission -> Check teams and to level II support and create
   
   
-John Doe 
-Access -> support -> role set to view only -> Extended Access set to support and create
+John Doe -> Access -> support -> role set to view only -> Extended Access set to support and create
 
 
-</p>
-<br />
 
-<p>
+
+
 <a href="https://imgur.com/c06bGbH"><img src="https://i.imgur.com/c06bGbH.png" title="source: imgur.com" /></a>
-</p>
-<p>
 
 We can also add End Users. End Users (also known as the customer) are the people who can create their own tickets.
   
