@@ -28,26 +28,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - In this section we will create and configure the osTicket environment.
 - We will setup configurations as an admin.
-- We will create role, department, team, agents and users.
+- We will create roles, departments, teams, agents, and users.
 - We will set up different SLAs and create help topics.
 
 <h2>Configuration Steps</h2>
 </p>
 <p>
-Login to the osTicket as an admin. Note that you can also switch between admin and agents panel by clicking on the top right corner of the screen.
+Login to the osTicket as an admin. Note that you can also switch between the admin and agent panel by clicking on the top right corner of the screen.
 </p>
 <br />
 <p>
 <a href="https://imgur.com/j27WMAA"><img src="https://i.imgur.com/j27WMAA.png" title="source: imgur.com" /></a>
 </p>
 <p>
-A role is the permission granted to agents (the person who will take care of the ticket) in the department that they have access to. Each role has a different set of permissions that can be checked or unchecked for the agent. Now we will create a role called “supreme admin” and will assign to a user who will have access to everything.  
+A role is permission granted to agents (the person who will take care of the ticket) in the department that they have access to. Each role has a different set of permissions that can be checked or unchecked for the agent. Now we will create a role called “supreme admin” and will assign it to a user who will have access to everything.  
   
-Admin Panel -> Agents -> Roles
-Add new role>Supreme admin
+Admin Panel -> Agents -> Roles ->Add new role -> Supreme admin
   
 
-After adding a new role go to the permission, check all of the boxes, click task and check all of the boxes, click knowledgebase and check the box.
+After adding a new role go to the permission, check all of the boxes, click the task and check all of the boxes, click knowledgebase and check the box.
 
 </p>
 <br />
@@ -56,10 +55,9 @@ After adding a new role go to the permission, check all of the boxes, click task
 <a href="https://imgur.com/Cbo36IX"><img src="https://i.imgur.com/Cbo36IX.png" title="source: imgur.com" /></a>
 </p>
 <p>
-The ticket gets associated with a department, and that specific department will take care the ticket  
+The ticket gets associated with a department, and that specific department will take care of the ticket  
   
-Admin Panel -> Agents -> Departments
-Add new department>System Administrator
+Admin Panel -> Agents -> Departments -> Add new department -> System Administrator
 
 </p>
 <br />
@@ -175,13 +173,9 @@ Sev-B (4 hours, 24/7)
   
 Sev-C (8 hours, business hours, Monday - Friday 8am -5pm with Canada Holidays)
   
-</p>
-<br />
 
-<p>
 <a href="https://imgur.com/MBwi4Nn"><img src="https://i.imgur.com/MBwi4Nn.png" title="source: imgur.com" /></a>
-</p>
-<p>
+
 
 
 End users can choose the problem they need help with. To do this go to the Admin Panel -> Manage -> Help Topics
