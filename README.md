@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 Login to the osTicket as an admin. Note that you can also switch between the admin and agent panel by clicking on the top right corner of the screen.
 
-<a href="https://imgur.com/j27WMAA"><img src="https://i.imgur.com/j27WMAA.png" title="source: imgur.com" /></a>
+![Image 1](https://github.com/ItradeLQ/post-install-config/assets/112427894/ec760854-05f8-4a5a-b44a-973ad97ffe6d)
 
 A role is permission granted to agents (the person who will take care of the ticket) in the department that they have access to. Each role has a different set of permissions that can be checked or unchecked for the agent. Now we will create a role called “supreme admin” and will assign it to a user who will have access to everything.  
   
